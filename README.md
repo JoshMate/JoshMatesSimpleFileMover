@@ -1,2 +1,17 @@
 # JoshMatesSimpleFileMover
 A BAT script that moves files from child fodlers to their parent
+
+# What does it do?
+When you run this script it will search through all childeren folders in the directory the script was run.
+For each file it finds, it will move it back up to the directory containing the script.
+Then it will give you a report on what it has moved.
+
+# Why woudl you need this?
+When I download a huge amount of audio samples from SPLICE I have to manually move all the files out of the maze of sub folders to then sort them into my own folder structure. This script half the work for me.
+
+# How do I use this?
+Simple place the script in the parent directory and run it.
+
+# Details
+Author: Josh Mate
+Release Date: 22/01/2026
