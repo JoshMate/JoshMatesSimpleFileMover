@@ -14,4 +14,5 @@ Simple place the script in the parent directory and run it.
 
 # Details
 Author: Josh Mate
+
 Release Date: 22/01/2026
