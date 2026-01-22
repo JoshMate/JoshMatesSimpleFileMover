@@ -6,7 +6,7 @@ When you run this script it will search through all childeren folders in the dir
 For each file it finds, it will move it back up to the directory containing the script.
 Then it will give you a report on what it has moved.
 
-# Why woudl you need this?
+# Why would you need this?
 When I download a huge amount of audio samples from SPLICE I have to manually move all the files out of the maze of sub folders to then sort them into my own folder structure. This script half the work for me.
 
 # How do I use this?
