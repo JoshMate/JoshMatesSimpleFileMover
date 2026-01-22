@@ -1,5 +1,5 @@
 # JoshMatesSimpleFileMover
-A BAT script that moves files from child fodlers to their parent
+A BAT script that moves files from child folders to their parent
 
 # What does it do?
 When you run this script it will search through all childeren folders in the directory the script was run.
